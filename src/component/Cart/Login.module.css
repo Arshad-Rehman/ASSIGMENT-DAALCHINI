@@ -1,0 +1,60 @@
+.actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+  }
+  h1{
+    text-align: center;
+    font-size: 30px;
+  }
+  button {
+    font: inherit;
+    color: #5a1a01;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    border-radius: 25px;
+    padding: 0.5rem 2rem; 
+    font-size: 30px;
+  }
+  
+  .control {
+    margin-bottom: 0.5rem;
+  }
+  
+  .control label {
+    font-weight: bold;
+    margin-bottom: 2.25rem;
+    display: block;
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+  }
+  
+  .control input {
+    font: inherit;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 20rem;
+    max-width: 100%;
+  }
+   label {
+    font-weight: bold;
+    margin-bottom: 2.25rem;
+    display: block;
+    font-size: 30px;
+    height: 1000px;
+    width: 1000px;
+  }
+  
+input {
+    font: inherit;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100px;
+    max-width: 100%;
+  }
+  p{
+    font-size: 30px;
+    text-align: center;
+    }

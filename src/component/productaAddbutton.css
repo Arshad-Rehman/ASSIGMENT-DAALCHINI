@@ -1,0 +1,15 @@
+.counter {
+    border: 2px solid rgb(0, 189, 101);
+    font-size: 1rem;
+    color: rgb(0, 189, 101);
+    font-weight: bold;
+    width: 60px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .counter > button {
+    padding: 0.2rem 0.5rem;
+    font-weight: bold;
+    background: transparent;
+    border: none;
+  }
